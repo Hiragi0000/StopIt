@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;  //シーンの切り換えに必要
-public class TitleManager : MonoBehaviour
+public class SceneChange : MonoBehaviour
 {
     public string sceneName;    //読み込むシーン名
 
