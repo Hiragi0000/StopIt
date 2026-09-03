@@ -529,7 +529,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0d35f8fd4eae904697dca8c4092e2c8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TitleManager
-  sceneName: PetSelectScene
+  sceneName: ResultScene
 --- !u!1 &1458688092
 GameObject:
   m_ObjectHideFlags: 0
