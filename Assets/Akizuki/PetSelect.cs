@@ -9,6 +9,9 @@ public class PetSelect : MonoBehaviour
     //public GameObject[] highlights;    // 黄色ハイライト
     //public AudioSource se;             // SE再生
     int index = 0;                     // 0=犬, 1=猫
+    //効果音
+    public AudioSource seSource;
+    public AudioClip selectSE;
 
     void Start()
     {
@@ -28,7 +31,7 @@ public class PetSelect : MonoBehaviour
             DogImage.SetActive(false);
             CatImage.SetActive(true);
             StarImage.SetActive(true);
-            Debug.Log("GetDownA");
+            seSource.PlayOneShot(selectSE);
             DataKeep.keep.player = 1;
         }
         else if (Input.GetKeyDown(KeyCode.A) && index == 1)
@@ -39,6 +42,7 @@ public class PetSelect : MonoBehaviour
             DogImage.SetActive(true);
             CatImage.SetActive(false);
             StarImage.SetActive(false);
+            seSource.PlayOneShot(selectSE);
             DataKeep.keep.player = 0;
         }
         if (Input.GetKeyDown(KeyCode.D)&&index==0)
@@ -49,6 +53,7 @@ public class PetSelect : MonoBehaviour
             DogImage.SetActive(false);
             CatImage.SetActive(true);
             StarImage.SetActive(true);
+            seSource.PlayOneShot(selectSE);
             DataKeep.keep.player = 1;
         }
         else if (Input.GetKeyDown(KeyCode.D) && index == 1)
@@ -59,6 +64,7 @@ public class PetSelect : MonoBehaviour
             DogImage.SetActive(true);
             CatImage.SetActive(false);
             StarImage.SetActive(false);
+            seSource.PlayOneShot(selectSE);
             DataKeep.keep.player = 0;
         }
     }
