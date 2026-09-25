@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 81cb7657d4a8aef4c96095aad8a76098
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5493038326985702209
+    second: Hakai_0
+  - first:
+      213: -338567569640999524
+    second: Hakai_1
+  - first:
+      213: 4302486370971649849
+    second: Hakai_2
+  - first:
+      213: 2142292158272247105
+    second: Hakai_3
+  - first:
+      213: -3122612250446284683
+    second: Hakai_4
+  - first:
+      213: 2420385427650945891
+    second: Hakai_5
+  - first:
+      213: 6105769849412086349
+    second: Hakai_6
+  - first:
+      213: -2466276069212692226
+    second: Hakai_7
+  - first:
+      213: 4183762170612833636
+    second: Hakai_8
+  - first:
+      213: 5534583442678333926
+    second: Hakai_9
+  - first:
+      213: -9089487024262416662
+    second: Hakai_10
+  - first:
+      213: 6241696270614774840
+    second: Hakai_11
+  - first:
+      213: 3726313766123620441
+    second: Hakai_12
+  - first:
+      213: 4180153278073237413
+    second: Hakai_13
+  - first:
+      213: -4575120051103347821
+    second: Hakai_14
+  - first:
+      213: 5440933782503124286
+    second: Hakai_15
+  - first:
+      213: 2249010287196903718
+    second: Hakai_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hakai_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 399
+        width: 581
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bb69941413b3c40800000000000000
+      internalID: 5493038326985702209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_1
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 808
+        width: 214
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95b417d69a2d4bf0800000000000000
+      internalID: -338567569640999524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 505
+        width: 567
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93789b01f8085bb30800000000000000
+      internalID: 4302486370971649849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_3
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 649
+        width: 114
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1451cea1e53fabd10800000000000000
+      internalID: 2142292158272247105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_4
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 256
+        width: 309
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578bdd8d3b04aa4d0800000000000000
+      internalID: -3122612250446284683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 112
+        width: 431
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363aaa209bfe69120800000000000000
+      internalID: 2420385427650945891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 211
+        width: 269
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a6f7a045d0cb450800000000000000
+      internalID: 6105769849412086349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_7
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 369
+        width: 225
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0e7806bf606cdd0800000000000000
+      internalID: -2466276069212692226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_8
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 176
+        width: 408
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d58141785bf0a30800000000000000
+      internalID: 4183762170612833636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_9
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 429
+        width: 164
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1c990515acecc40800000000000000
+      internalID: 5534583442678333926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 43
+        width: 162
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6f058a5b7abd180800000000000000
+      internalID: -9089487024262416662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_11
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 140
+        width: 129
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834cfdd20b5fe9650800000000000000
+      internalID: 6241696270614774840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_12
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 239
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958427f90a686b330800000000000000
+      internalID: 3726313766123620441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 106
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af6d3e4243e20a30800000000000000
+      internalID: 4180153278073237413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_14
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 30
+        width: 266
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bc735bd88e180c0800000000000000
+      internalID: -4575120051103347821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_15
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 117
+        width: 196
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d6588a274128b40800000000000000
+      internalID: 5440933782503124286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hakai_16
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 60
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6291290c0f6163f10800000000000000
+      internalID: 2249010287196903718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hakai_0: 5493038326985702209
+      Hakai_1: -338567569640999524
+      Hakai_10: -9089487024262416662
+      Hakai_11: 6241696270614774840
+      Hakai_12: 3726313766123620441
+      Hakai_13: 4180153278073237413
+      Hakai_14: -4575120051103347821
+      Hakai_15: 5440933782503124286
+      Hakai_16: 2249010287196903718
+      Hakai_2: 4302486370971649849
+      Hakai_3: 2142292158272247105
+      Hakai_4: -3122612250446284683
+      Hakai_5: 2420385427650945891
+      Hakai_6: 6105769849412086349
+      Hakai_7: -2466276069212692226
+      Hakai_8: 4183762170612833636
+      Hakai_9: 5534583442678333926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
