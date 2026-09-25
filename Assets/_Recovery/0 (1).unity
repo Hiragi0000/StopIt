@@ -1729,7 +1729,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0d35f8fd4eae904697dca8c4092e2c8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneChange
-  sceneName: ResultScene
+  sceneName: GameScene
   change: {fileID: 1424497669}
   seSource: {fileID: 896522932}
   selectSE: {fileID: 8300000, guid: d200997f74f33d341a2755089d609214, type: 3}
